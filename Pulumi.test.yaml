@@ -1,0 +1,6 @@
+config:
+  vsphere:allowUnverifiedSsl: "true"
+  vsphere:password:
+    secure: AAABAMczjdiSYQ+BIuj6S/PHMqF8361CMkJ5FKZ4Q2ujsCVtnUQ2e0ltrPSv
+  vsphere:user: administrator@vsphere.local
+  vsphere:vsphereServer: 10.100.31.91
